@@ -1,0 +1,5 @@
+com\dangjogvara\springpetclinic\model\Person.class
+com\dangjogvara\springpetclinic\model\Vet.class
+com\dangjogvara\springpetclinic\model\Pet.class
+com\dangjogvara\springpetclinic\model\PetType.class
+com\dangjogvara\springpetclinic\model\Owner.class
