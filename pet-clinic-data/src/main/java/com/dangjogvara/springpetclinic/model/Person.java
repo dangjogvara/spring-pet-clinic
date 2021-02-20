@@ -5,7 +5,7 @@ public class Person {
     private String firstname;
     private String lastName;
 
-   
+
     public String getFirstname() {
         return firstname;
     }
