@@ -38,4 +38,7 @@
         </plugins>
     </build>
 
+    <scm>
+        <developerConnection>scm:git:git@github.com:dangjogvara/spring-pet-clinic.git</developerConnection>
+    </scm>
 </project>
