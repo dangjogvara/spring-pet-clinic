@@ -99,9 +99,6 @@ Desktop.ini
 .DS_Store
 .svn
 
-
-target
-
 # Thumbnails
 ._*
 
@@ -127,7 +124,7 @@ target
 *.*~
 *~
 .merge_file*
-spring-pet-clinic.iml
+
 ######################
 # Gradle Wrapper
 ######################
