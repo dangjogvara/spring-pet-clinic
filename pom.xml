@@ -40,6 +40,5 @@
 
     <scm>
         <developerConnection>scm:git:https://github.com/dangjogvara/spring-pet-clinic.git</developerConnection>
-        <tag>HEAD</tag>
     </scm>
 </project>
