@@ -14,7 +14,7 @@
     </parent>
     <groupId>com.dangjogvara</groupId>
     <artifactId>spring-pet-clinic</artifactId>
-    <version>0.0.4-SNAPSHOT</version>
+    <version>0.0.4</version>
     <name>spring-pet-clinic</name>
     <description>Spring Pet Clinic Project</description>
     <properties>
@@ -40,6 +40,6 @@
 
     <scm>
         <developerConnection>scm:git:https://github.com/dangjogvara/spring-pet-clinic.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>spring-pet-clinic-0.0.4</tag>
     </scm>
 </project>
